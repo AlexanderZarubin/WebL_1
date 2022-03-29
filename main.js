@@ -84,7 +84,7 @@ console.log("------------------End of second task---------------------");
 {// Задача 4    
     let year = window.prompt("Write to check year (true = высокосный)");
 
-    year/4 != 0 ? alert("false") : year/100 != 0? alert("true"): alert("false");
+    year/4 != 0 ? alert("true") : year/100 != 0? alert("false"): alert("true");
     
 }   
 {// Задача 5    
